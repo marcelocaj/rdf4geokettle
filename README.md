@@ -17,3 +17,8 @@ Plugins to work with RDF under GeoKettle framework.
 ##Installation
 
 Copy all folders to GeoKettle-app-folder/plugins/steps/
+
+
+##Demo
+
+Youtube: http://youtu.be/klXrOltwDtA
